@@ -5,7 +5,11 @@ This dashboard is part of the PwC virtual Internship and I was tasked with creat
 The dashboard showed some metrics which includes:
 
 Overall customer satisfaction
+
 Overall calls answered/abandoned
+
 Calls by time
+
 Average speed of answer
+
 Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
